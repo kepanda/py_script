@@ -2,6 +2,7 @@
 # -*- coding:UTF-8 -*-
 
 import Tkinter
+
 def center_window(w = 300, h = 200):
     ws = root.winfo_screenwidth()
     hs = root.winfo_screenheight()
